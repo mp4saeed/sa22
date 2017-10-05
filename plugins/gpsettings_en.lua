@@ -1,6 +1,5 @@
------my_name_is_ehsan*#ربات میخای بیا پی وی
-👇👇
------@Saee_d_28     saeed
+-----my_name_is_ehsan*#@mafia_boy
+-----@Saee_d_28     FOR UPDATE
 -----لطفا پیام بالا رو پاک نکنید
 local function modadd(msg)
 local hash = "gp_lang:"..msg.chat_id_
@@ -3114,7 +3113,6 @@ pre_process = pre_process
 }
 -- کد های پایین در ربات نشان داده نمیشوند
 -- @Saee_d_28
------my_name_is_ehsan*#ربات میخای بیا پی وی
-👇👇
------@Saee_d_28     saeed
+-----my_name_is_ehsan*#@mafia_boy
+-----@Saee_d_28     FOR UPDATE
 -----لطفا پیام بالا رو پاک نکنید
