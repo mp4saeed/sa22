@@ -1,6 +1,5 @@
------my_name_is_ehsan*#ربات میخای بیا پی وی
-👇👇
------@Saee_d_28    saeed
+-----my_name_is_ehsan*#@mafia_boy
+-----@Saee_d_28     FOR UPDATE
 -----لطفا پیام بالا رو پاک نکنید
 local function pre_process(msg)
  msg.text = msg.content_.text
@@ -59,7 +58,6 @@ return {
   pre_process = pre_process
 }
 -- http://bombangteam.blogfa.com
------my_name_is_ehsan*#ربات میخای بیا پی وی
-👇👇
------@Saee_d_28     saeed
+-----my_name_is_ehsan*#@mafia_boy
+-----@Saee_d_28     FOR UPDATE
 -----لطفا پیام بالا رو پاک نکنید
