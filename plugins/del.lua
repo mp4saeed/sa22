@@ -30,8 +30,9 @@ return {
     },
     run = run
 }
------my_name_is_ehsan*#@mafia_boy
------@ENERGY_TEAM     FOR UPDATE
+-----my_name_is_ehsan*#ربات میخای بیا پی وی
+👇👇
+-----@Saee_d_28     saeed
 -----لطفا پیام بالا رو پاک نکنید
 ------منبع
---Open By @LuaError
+--Open By @Saee_d_28
