@@ -55,7 +55,7 @@ function energy_team() {
 	echo -e "\e[0m"
 	green "     >>>>                       edir 4 source                                               "
 	green "     >>>>                       beyond.bombang and...                                       "
-	white "     >>>>                       edited by ehsan mafia_boy   @mafia_boy                      "
+	white "     >>>>                       edited by ehsan mafia_boy   @Saee_d_28                      "
 	white "     >>>>                       @Saee_d_28                                                "
 	red   "     >>>>                       @Saee_d_28                                                "
 	red   "     >>>>                       saeed_28                                                   "
