@@ -1,5 +1,6 @@
-﻿-----my_name_is_ehsan*#@mafia_boy
------@ENERGY_TEAM     FOR UPDATE
+﻿-----my_name_is_ehsan*#ربات میخای بیا پی وی
+👇👇
+-----@Saee_d_28    saeed
 -----لطفا پیام بالا رو پاک نکنید
 local function getChatId(chat_id)
   local chat = {}
@@ -40,7 +41,8 @@ patterns ={
  patterns_fa ={ }, 
   run = amir
 }
------my_name_is_ehsan*#@mafia_boy
------@ENERGY_TEAM     FOR UPDATE
+-----my_name_is_ehsan*#ربات میخای بیا پی وی
+👇👇
+-----@Saee_d_28    saeed
 -----لطفا پیام بالا رو پاک نکنید
 
