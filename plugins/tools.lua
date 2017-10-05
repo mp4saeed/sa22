@@ -1,6 +1,5 @@
------my_name_is_ehsan*#ربات میخای بیا پی وی
-👇👇
------@Saee_d_28     saeed
+-----my_name_is_ehsan*#@mafia_boy
+-----@Saee_d_28     FOR UPDATE
 -----لطفا پیام بالا رو پاک نکنید
 local SUDO = 323046540 -- put Your ID here! <===
 function exi_files(cpath)
@@ -1069,7 +1068,6 @@ patterns = {
 run = run, pre_process = pre_process
 }
 -- #End By @Saee_d_28
------my_name_is_ehsan*#ربات میخای بیا پی وی
-👇👇
------@Saee_d_28     saeed
+-----my_name_is_ehsan*#@mafia_boy
+-----@Saee_d_28     FOR UPDATE
 -----لطفا پیام بالا رو پاک نکنید
