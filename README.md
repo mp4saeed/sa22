@@ -6,7 +6,7 @@ sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-d
 ************************************************************************
 حالا کد های زیر رو کپی کنید و بزنید.
 **********************************************************
-cd $HOME && git clone https://github.com/mp4saeed/energy && cd energy && chmod +x energy.sh && ./energy.sh install && ./energy.sh
+cd $HOME && git clone https://github.com/mp4saeed/sa22.git && cd sa22 && chmod +x energy.sh && ./energy.sh install && ./energy.sh
 ************************************************************
 برای نصب اتولانچ جهت جلوگیری از خاموش شدن ربات کد های زیر رو به ترتیب داخل ترمینال بزنید.
 ***************************************************
