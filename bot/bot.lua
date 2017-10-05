@@ -1,3 +1,7 @@
+-- #@Saee_d_28
+-----my_name_is_ehsan*#@mafia_boy
+-----@Saee_d_28     FOR UPDATE
+-----لطفا پیام بالا رو پاک نکنید
 
 tdcli = dofile('./tg/tdcli.lua')
 serpent = (loadfile "./libs/serpent.lua")()
@@ -409,7 +413,6 @@ function tdcli_update_callback (data)
 	end
 end
 
------my_name_is_ehsan*#ربات میخای بیا پی وی
-👇👇
------@Saee_d_28     saeed
+-----my_name_is_ehsan*#@mafia_boy
+-----@Saee_d_28     FOR UPDATE
 -----لطفا پیام بالا رو پاک نکنید
